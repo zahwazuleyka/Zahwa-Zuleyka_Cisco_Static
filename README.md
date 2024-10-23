@@ -15,4 +15,4 @@ Hasil pengujian menunjukkan bahwa konfigurasi routing static pada perangkat tela
 Pengujian Koneksi ICMP, Pengujian koneksi dilakukan menggunakan ping (ICMP Echo Request) untuk memverifikasi bahwa perangkat dapat saling berkomunikasi. Hasil pengujian ini menunjukkan bahwa koneksi antara PC-PC yang berada di subnet berbeda berjalan dengan baik. 
 
 Kesimpulan Percobaan:
-Percobaan konfigurasi routing static berhasil dilaksanakan dengan koneksi antar PC sesuai skenario yang diharapkan. Semua perangkat dalam jaringan telah terhubung dan komunikasi antar subnet bisa dilakukan tanpa hambatan.
+Pada percobaan ini, konfigurasi routing static berhasil diterapkan untuk menghubungkan beberapa subnet yang berisi perangkat-perangkat komputer. Pengujian koneksi antar perangkat melalui ICMP (ping) membuktikan bahwa konfigurasi routing static telah berfungsi dengan baik. Semua perangkat yang diuji, termasuk PC 1, PC 2, PC 3, PC 4, PC 5, PC 6, PC 7, PC 8, dan PC 9, dapat saling berkomunikasi tanpa mengalami masalah.
